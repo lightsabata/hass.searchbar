@@ -1,10 +1,10 @@
 {
-  "domain": "text_input_search",
-  "name": "Text Input Search",
+  "domain": "hass_searchbar",
+  "name": "Hass Searchbar",
   "version": "1.0.0",
-  "remote_location": "https://raw.githubusercontent.com/lightsabata/hass.searchbar/master/text-input-row.js",
-  "documentation": "https://example.com/docs",
+  "description": "A custom card for Home Assistant that allows text input and performs a Google search.",
+  "documentation": "https://github.com/lightsabata/hass.searchbar",
   "dependencies": [],
-  "codeowners": ["@votre_nom"],
+  "codeowners": ["@lightsabata"],
   "requirements": []
 }
