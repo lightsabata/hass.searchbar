@@ -1,0 +1,9 @@
+{
+  "domain": "text_input_search",
+  "name": "Text Input Search",
+  "version": "1.0.0",
+  "documentation": "https://example.com/docs",
+  "dependencies": [],
+  "codeowners": ["@votre_nom"],
+  "requirements": []
+}
