@@ -2,6 +2,7 @@
   "domain": "text_input_search",
   "name": "Text Input Search",
   "version": "1.0.0",
+  "remote_location": "https://raw.githubusercontent.com/lightsabata/hass.searchbar/master/text-input-row.js",
   "documentation": "https://example.com/docs",
   "dependencies": [],
   "codeowners": ["@votre_nom"],
